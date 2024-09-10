@@ -11,3 +11,6 @@ DOMAIN_NAME = '@gmail.com'
 # Log file path
 LOG_FILE_PATH = 'project.log'
 
+# Google API configurations (placeholders)
+GOOGLE_API_KEY = 'AIzaSyDwS2aDYnUusmdAB33Uh_mJ9-XE4l70OZo'
+
