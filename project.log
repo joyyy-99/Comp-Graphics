@@ -1,0 +1,20 @@
+INFO:root:Number of Male Students: 40
+INFO:root:Number of Female Students: 24
+INFO:root:Number of Male Students: 35
+INFO:root:Number of Female Students: 24
+INFO:root:Special Character in Name: Shanelle Akong'o
+INFO:root:Special Character in Name: Jude Ang'edu
+INFO:root:Special Character in Name: Ian Ng'ang'a
+INFO:root:Special Character in Name: Olive Nyang'or
+WARNING:huggingface_hub.file_download:Error while downloading from https://cdn-lfs.huggingface.co/sentence-transformers/LaBSE/c9e7daf739f87c2168a6d1baffdae5782eceb03eb6de61950284a925234c6865?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27pytorch_model.bin%3B+filename%3D%22pytorch_model.bin%22%3B&response-content-type=application%2Foctet-stream&Expires=1725865156&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNTg2NTE1Nn19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5odWdnaW5nZmFjZS5jby9zZW50ZW5jZS10cmFuc2Zvcm1lcnMvTGFCU0UvYzllN2RhZjczOWY4N2MyMTY4YTZkMWJhZmZkYWU1NzgyZWNlYjAzZWI2ZGU2MTk1MDI4NGE5MjUyMzRjNjg2NT9yZXNwb25zZS1jb250ZW50LWRpc3Bvc2l0aW9uPSomcmVzcG9uc2UtY29udGVudC10eXBlPSoifV19&Signature=jWV%7EoMgA4Q7SryQeXtab7MOMLM2wQzWTF9QwzFCIP58QKWwO2pU3ztQYqtJF7mNayBeBYQTy4h165UmCUtmwOVp%7EdvNn3LLNY-m8YBSrzK6OUpB4UcgC9tmIURgkI2N9WS3vp714-wHyHAyxHEjSMPeRYjNTZydt0DBzZqm2LboK%7EY5RYB3SdPHnOumGbFg72GOoM0Y8w0rOA%7E60Dcy2Hx1j8gVcF6BP0GkiHqDDP-%7ESQXw4snnpBV%7EoDnv9cbWU0BDCw6ch8gu20aUnjexw38CdddEBb5aA8wlEsUQFHy%7E02PZzV7pqd-hfu-GjCxYcyONg1-ukYm6%7E587fDBWOGQ__&Key-Pair-Id=K3ESJI6DHPFC7: HTTPSConnectionPool(host='cdn-lfs.huggingface.co', port=443): Read timed out.
+Trying to resume download...
+WARNING:huggingface_hub.file_download:Error while downloading from https://cdn-lfs.huggingface.co/sentence-transformers/LaBSE/c9e7daf739f87c2168a6d1baffdae5782eceb03eb6de61950284a925234c6865?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27pytorch_model.bin%3B+filename%3D%22pytorch_model.bin%22%3B&response-content-type=application%2Foctet-stream&Expires=1725865235&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNTg2NTIzNX19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5odWdnaW5nZmFjZS5jby9zZW50ZW5jZS10cmFuc2Zvcm1lcnMvTGFCU0UvYzllN2RhZjczOWY4N2MyMTY4YTZkMWJhZmZkYWU1NzgyZWNlYjAzZWI2ZGU2MTk1MDI4NGE5MjUyMzRjNjg2NT9yZXNwb25zZS1jb250ZW50LWRpc3Bvc2l0aW9uPSomcmVzcG9uc2UtY29udGVudC10eXBlPSoifV19&Signature=RygMq1IGUy-TZT3jqdVj-OEGEUqxr875q6IbpUdPAreMrnlerhIRq9COjTlEPT2hXxBUoBGE4kW-12hDfQLnKFDa1D7tenMAJSt36frgc1ttwS46dTeOGFcCnqkAG7vzZrPQTZOBX%7EsKu6EkTdUvpdrOM81QLkZNpz2-iOp9QTYONe-AsFyTMSqr0vTwQAXDlT2a-vR5SMNBEw6KCdfA27W8q75DBTp0cqHvGELm7YiA4ReZRAYL5ctmEOO-4Thhe4dh4YagY7v1nGEkNu4Vkl9U1DdHi7hwpQtPDITVxoET2JNSfixRKy7t52UZixYvOj0cNqmuWUliUUI1TBro2g__&Key-Pair-Id=K3ESJI6DHPFC7: HTTPSConnectionPool(host='cdn-lfs.huggingface.co', port=443): Read timed out.
+Trying to resume download...
+INFO:root:Number of Male Students: 40
+INFO:root:Number of Female Students: 24
+INFO:root:Number of Male Students: 35
+INFO:root:Number of Female Students: 24
+INFO:root:Special Character in Name: Shanelle Akong'o
+INFO:root:Special Character in Name: Jude Ang'edu
+INFO:root:Special Character in Name: Ian Ng'ang'a
+INFO:root:Special Character in Name: Olive Nyang'or
